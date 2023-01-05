@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T16:54:51.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="-w95weKRukup6hTPEpUf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-05T17:16:54.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.1" etag="blL_GJHo91CMwxdfpV7t" type="github">
   <diagram id="vWVslGCg_2vC-vvvZHGT" name="Page-1">
-    <mxGraphModel dx="683" dy="377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="225" dy="372" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="437" y="78" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ueWvzS6FFTIwsGYSFD5m-20" value="Players" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="285" y="115" width="75" height="86" as="geometry" />
+          <mxGeometry x="285" y="115" width="75" height="106" as="geometry" />
         </mxCell>
         <mxCell id="ueWvzS6FFTIwsGYSFD5m-21" value="steam_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-20">
           <mxGeometry y="26" width="75" height="20" as="geometry" />
@@ -22,8 +22,50 @@
         <mxCell id="ueWvzS6FFTIwsGYSFD5m-23" value="discord_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-20">
           <mxGeometry y="46" width="75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ueWvzS6FFTIwsGYSFD5m-22" value="created_at" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-20">
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-26" value="discord_name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-20">
           <mxGeometry y="66" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-22" value="created_at" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-20">
+          <mxGeometry y="86" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-47" value="Players" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="546" y="88" width="123" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-52" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;fontStyle=4" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-47">
+          <mxGeometry y="26" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-48" value="steam_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-47">
+          <mxGeometry y="46" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-49" value="discord_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-47">
+          <mxGeometry y="66" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-50" value="discord_name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-47">
+          <mxGeometry y="86" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-51" value="created_at" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-47">
+          <mxGeometry y="106" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-53" value="Vips" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="700" y="88" width="123" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-54" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;fontStyle=4" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-53">
+          <mxGeometry y="26" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-56" value="start_at" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-53">
+          <mxGeometry y="46" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-57" value="end_at" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-53">
+          <mxGeometry y="66" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-65" value="status" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-53">
+          <mxGeometry y="86" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-55" value="steam_id (fk)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;fontStyle=0" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-53">
+          <mxGeometry y="106" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-58" value="package (fk)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="ueWvzS6FFTIwsGYSFD5m-53">
+          <mxGeometry y="126" width="123" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
