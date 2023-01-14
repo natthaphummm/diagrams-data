@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T03:24:16.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="l9xzA4cmX1vWyMasNWns" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-14T07:10:45.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="oFLyyHzzHblpNipWLTjh" version="20.8.5" type="github">
   <diagram id="vWVslGCg_2vC-vvvZHGT" name="Page-1">
-    <mxGraphModel dx="989" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="453" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="ueWvzS6FFTIwsGYSFD5m-49" value="discord_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" parent="ueWvzS6FFTIwsGYSFD5m-47" vertex="1">
           <mxGeometry y="66" width="123" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ueWvzS6FFTIwsGYSFD5m-50" value="discord_name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" parent="ueWvzS6FFTIwsGYSFD5m-47" vertex="1">
+        <mxCell id="ueWvzS6FFTIwsGYSFD5m-50" value="season_id (fk)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" parent="ueWvzS6FFTIwsGYSFD5m-47" vertex="1">
           <mxGeometry y="86" width="123" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ueWvzS6FFTIwsGYSFD5m-51" value="created_at" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" parent="ueWvzS6FFTIwsGYSFD5m-47" vertex="1">
@@ -230,6 +230,21 @@
               <mxPoint x="1214" y="455" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M88gbEt_2mCPjSsSbRL4-1" value="seasons" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1068" y="96" width="123" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="M88gbEt_2mCPjSsSbRL4-2" value="id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;fontStyle=4" vertex="1" parent="M88gbEt_2mCPjSsSbRL4-1">
+          <mxGeometry y="26" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M88gbEt_2mCPjSsSbRL4-3" value="name" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="M88gbEt_2mCPjSsSbRL4-1">
+          <mxGeometry y="46" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M88gbEt_2mCPjSsSbRL4-6" value="created_at" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=8;" vertex="1" parent="M88gbEt_2mCPjSsSbRL4-1">
+          <mxGeometry y="66" width="123" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M88gbEt_2mCPjSsSbRL4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ueWvzS6FFTIwsGYSFD5m-50" target="M88gbEt_2mCPjSsSbRL4-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
