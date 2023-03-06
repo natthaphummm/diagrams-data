@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T19:02:47.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ENfappSyYwjreU-jIkQg" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T19:03:52.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fdsKNh07m5NN6oaN1v6u" version="21.0.2" type="github">
   <diagram name="Page-1" id="Ld0i2piycBfyUOC686Oy">
-    <mxGraphModel dx="450" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="678" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -821,7 +821,7 @@
           <mxGeometry x="40" y="1960" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="whY9umxAExaQ9-zQGVpd-394" value="Quick Buttons" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1960" width="140" height="360" as="geometry" />
+          <mxGeometry x="520" y="1960" width="140" height="360" as="geometry" />
         </mxCell>
         <mxCell id="whY9umxAExaQ9-zQGVpd-395" value="Welcome Pack Button Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-394">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -899,7 +899,7 @@
           <mxGeometry y="390" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="whY9umxAExaQ9-zQGVpd-428" value="ADMIN CHANNELS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="200" y="2480" width="140" height="420" as="geometry" />
+          <mxGeometry x="360" y="1960" width="140" height="420" as="geometry" />
         </mxCell>
         <mxCell id="whY9umxAExaQ9-zQGVpd-429" value="Admin Command&amp;nbsp;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-428">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
