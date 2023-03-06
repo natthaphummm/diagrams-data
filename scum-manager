@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T18:10:53.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="WzrMziyyJaa4vEX1OfZw" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T18:51:38.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="VamuA4z5MLLQA6rj56iS" version="21.0.2" type="github">
   <diagram name="Page-1" id="Ld0i2piycBfyUOC686Oy">
     <mxGraphModel dx="378" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -720,6 +720,66 @@
         </mxCell>
         <mxCell id="whY9umxAExaQ9-zQGVpd-339" value="Coins Won&amp;nbsp;" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-336">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-340" value="Economies" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="1360" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-341" value="Enable Bank&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-340">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-342" value="Enable Purchase&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-340">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-343" value="Coin Kill&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-340">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-344" value="Coin Death&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-340">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-345" value="Coin Interval&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-340">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-350" value="COIN SETTINGS BY LEVEL - BEGINNER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="1550" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-351" value="Days on Server - Beginner&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-350">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-352" value="Coin - Beginner&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-350">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-356" value="COIN SETTINGS BY LEVEL - INTERMEDIARY" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="1650" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-357" value="Days on Server - Intermediary&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-356">
+          <mxGeometry y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-358" value="Coin - Intermediary&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-356">
+          <mxGeometry y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-359" value="COIN SETTINGS BY LEVEL - VETERAN" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3080" y="1770" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-361" value="Coin - Veteran&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-359">
+          <mxGeometry y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-362" value="REFERRAL PLAYER" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="1360" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-363" value="Enable Referral Player&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-362">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-364" value="Coins&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-362">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-365" value="Time Played" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-362">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-366" value="Limit Time" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-362">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-367" value="Package&amp;nbsp;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-362">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
