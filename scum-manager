@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T17:21:45.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yUPwj3crrdGQJ7hf0aAj" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T17:24:21.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="i_RwpbWKrmbFd4gu84kw" version="21.0.2" type="github">
   <diagram name="Page-1" id="Ld0i2piycBfyUOC686Oy">
-    <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="472" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -564,6 +564,48 @@
         </mxCell>
         <mxCell id="whY9umxAExaQ9-zQGVpd-199" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Price&lt;/h4&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-196">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-213" value="Network Monitorings" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-214" value="Enable monitoring" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-213">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-225" value="ALERTS TO DISCORD" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1440" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-226" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Alert VPN&lt;/h4&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-225">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-229" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Alert Proxy&lt;/h4&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-225">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-230" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Alert TOR&lt;/h4&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-225">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-231" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Alert Relay&lt;/h4&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-225">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-232" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Alert Country&lt;/h4&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-225">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-233" value="BLOCKING SETTINGS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1640" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-234" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Block VPN&lt;/h4&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-233">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-235" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Block Proxy&lt;/h4&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-233">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-236" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Block TOR&lt;/h4&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-233">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-237" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Block Relay&lt;/h4&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-233">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whY9umxAExaQ9-zQGVpd-238" value="&lt;h4 style=&quot;box-sizing: inherit; border: 0 solid var(--black); margin: 0px; font-weight: 400; color: var(--80); font-family: Nunito, system-ui, BlinkMacSystemFont, -apple-system, sans-serif; font-size: medium; background-color: rgb(255, 255, 255);&quot; class=&quot;font-normal text-80&quot;&gt;Block Country&lt;/h4&gt;" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="whY9umxAExaQ9-zQGVpd-233">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
