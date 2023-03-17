@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T20:23:01.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WS913YFUbsuGGCry7vFx" version="21.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T20:25:21.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="LqUFjmnU1-f9ntd5mT2e" version="21.0.7" type="github">
   <diagram name="Page-1" id="RRQ9hM2p7Qd0FDY1Oe1q">
     <mxGraphModel dx="1509" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
@@ -478,8 +478,8 @@
         <mxCell id="p0fJ-x4EycRBvUltWq9I-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;REGISTER SYSTEM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="840" y="200" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p0fJ-x4EycRBvUltWq9I-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Check User InfirmationSYSTEM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="840" y="240" width="380" height="40" as="geometry" />
+        <mxCell id="p0fJ-x4EycRBvUltWq9I-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;User Info&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="840" y="240" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p0fJ-x4EycRBvUltWq9I-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Donation System&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="840" y="280" width="220" height="40" as="geometry" />
@@ -489,6 +489,9 @@
         </mxCell>
         <mxCell id="p0fJ-x4EycRBvUltWq9I-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Player Online&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="1400" y="200" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p0fJ-x4EycRBvUltWq9I-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Server Info&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="840" y="360" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
