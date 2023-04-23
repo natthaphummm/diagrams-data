@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T07:46:56.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="pQ_S5IfUz9cCArWtgzp1" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T07:47:14.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3HOiB0Y_kKIcf9iqGdEy" version="21.2.1" type="github">
   <diagram name="Page-1" id="rp__ZX7JmIiC6YEfwZko">
-    <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="t3KFKhCatXWxzz0bfxKi-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t3KFKhCatXWxzz0bfxKi-4" target="t3KFKhCatXWxzz0bfxKi-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t3KFKhCatXWxzz0bfxKi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="t3KFKhCatXWxzz0bfxKi-4" target="t3KFKhCatXWxzz0bfxKi-3">
+        <mxCell id="t3KFKhCatXWxzz0bfxKi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="t3KFKhCatXWxzz0bfxKi-4" target="t3KFKhCatXWxzz0bfxKi-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t3KFKhCatXWxzz0bfxKi-4" value="Company KR" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -70,7 +70,7 @@
         <mxCell id="t3KFKhCatXWxzz0bfxKi-33" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="530" y="480" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="t3KFKhCatXWxzz0bfxKi-35" value="API UPDATE STATUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="t3KFKhCatXWxzz0bfxKi-35" value="API UPDATE STATUS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="690" y="210" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
