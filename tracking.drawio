@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T07:42:37.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="w5MKh6eYAG0w0pje8YIm" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T07:45:26.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="vF9jzdWmQcZKfv_Lt4_7" version="21.2.1" type="github">
   <diagram name="Page-1" id="rp__ZX7JmIiC6YEfwZko">
     <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="730" y="150" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="t3KFKhCatXWxzz0bfxKi-10" value="Item list" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="70" height="120" as="geometry" />
+          <mxGeometry x="360" y="280" width="70" height="120" as="geometry" />
         </mxCell>
         <mxCell id="t3KFKhCatXWxzz0bfxKi-11" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="t3KFKhCatXWxzz0bfxKi-10">
           <mxGeometry y="30" width="70" height="30" as="geometry" />
@@ -40,8 +40,29 @@
         <mxCell id="t3KFKhCatXWxzz0bfxKi-13" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="t3KFKhCatXWxzz0bfxKi-10">
           <mxGeometry y="90" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="t3KFKhCatXWxzz0bfxKi-15" value="Service Fees" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="90" height="60" as="geometry" />
+        <mxCell id="t3KFKhCatXWxzz0bfxKi-15" value="Sender Info" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="t3KFKhCatXWxzz0bfxKi-22" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="t3KFKhCatXWxzz0bfxKi-15">
+          <mxGeometry y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t3KFKhCatXWxzz0bfxKi-23" value="Tel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="t3KFKhCatXWxzz0bfxKi-15">
+          <mxGeometry y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t3KFKhCatXWxzz0bfxKi-24" value="Receiver Info" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="t3KFKhCatXWxzz0bfxKi-25" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="t3KFKhCatXWxzz0bfxKi-24">
+          <mxGeometry y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t3KFKhCatXWxzz0bfxKi-26" value="Tel" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="t3KFKhCatXWxzz0bfxKi-24">
+          <mxGeometry y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t3KFKhCatXWxzz0bfxKi-27" value="Address" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="t3KFKhCatXWxzz0bfxKi-24">
+          <mxGeometry y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t3KFKhCatXWxzz0bfxKi-28" value="Service Fees" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
