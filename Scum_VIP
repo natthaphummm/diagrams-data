@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T23:00:29.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="r8IuvpZsMJjsFi1iIBEe" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T23:05:47.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="aGQWrBBimztBUtcNCfjd" version="21.2.9" type="github">
   <diagram name="Page-1" id="G4AezcYIN3B0_XXqHUpl">
     <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
@@ -20,13 +20,13 @@
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vAPD_ordPx76ANDORBGr-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Set&amp;nbsp;WhitelistedUsers.ini&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="910" y="70" width="230" height="40" as="geometry" />
+          <mxGeometry x="1080" y="80" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vAPD_ordPx76ANDORBGr-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAPD_ordPx76ANDORBGr-7" target="vAPD_ordPx76ANDORBGr-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vAPD_ordPx76ANDORBGr-7" value="load file&lt;br&gt;15.235.180.212_7022\Config\WindowsServer\WhitelistedUsers.ini&lt;br&gt;with SFTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="120" width="390" height="60" as="geometry" />
+          <mxGeometry x="990" y="130" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vAPD_ordPx76ANDORBGr-46" value="donation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="400" y="80" width="140" height="150" as="geometry" />
@@ -85,11 +85,52 @@
         <mxCell id="vAPD_ordPx76ANDORBGr-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAPD_ordPx76ANDORBGr-68" target="vAPD_ordPx76ANDORBGr-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vAPD_ordPx76ANDORBGr-68" value="Adding new steamid64" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="200" width="170" height="60" as="geometry" />
+        <mxCell id="vAPD_ordPx76ANDORBGr-68" value="Add/Removesteamid64" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="210" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vAPD_ordPx76ANDORBGr-69" value="upload" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="280" width="170" height="60" as="geometry" />
+          <mxGeometry x="1100" y="290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Whitelist Expire Check&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAPD_ordPx76ANDORBGr-73" target="vAPD_ordPx76ANDORBGr-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-73" value="Query whitelist table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAPD_ordPx76ANDORBGr-75" target="vAPD_ordPx76ANDORBGr-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAPD_ordPx76ANDORBGr-75" target="vAPD_ordPx76ANDORBGr-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-75" value="check expire" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="185" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAPD_ordPx76ANDORBGr-77" target="vAPD_ordPx76ANDORBGr-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="80" width="430" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAPD_ordPx76ANDORBGr-80" target="vAPD_ordPx76ANDORBGr-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-80" value="Remove Row" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vAPD_ordPx76ANDORBGr-82" target="vAPD_ordPx76ANDORBGr-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="310" />
+              <mxPoint x="630" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vAPD_ordPx76ANDORBGr-82" value="Delay 24 H" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
