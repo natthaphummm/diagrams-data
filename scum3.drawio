@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T13:59:40.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Zdr0myvKju4FGMu1y8qz" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T14:12:03.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="F1bSaILkJGHV1pwWZPbX" version="21.5.2" type="github">
   <diagram name="Page-1" id="mlCE6Rt0msktbBBOM9ru">
     <mxGraphModel dx="819" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="4IYZVChcHkXUuiJdIHGn-4" value="register check" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="320" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4IYZVChcHkXUuiJdIHGn-7" value="Kick from server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4IYZVChcHkXUuiJdIHGn-7" value="Kick from server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="680" y="410" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4IYZVChcHkXUuiJdIHGn-15" value="Register Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -136,6 +136,21 @@
         </mxCell>
         <mxCell id="4IYZVChcHkXUuiJdIHGn-32" value="name check" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="870" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4IYZVChcHkXUuiJdIHGn-33" value="DISCORD" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4IYZVChcHkXUuiJdIHGn-34" value="NODE.JS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4IYZVChcHkXUuiJdIHGn-35" value="GAME" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4IYZVChcHkXUuiJdIHGn-36" value="DATA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4IYZVChcHkXUuiJdIHGn-37" value="BOTGAME" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="380" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
