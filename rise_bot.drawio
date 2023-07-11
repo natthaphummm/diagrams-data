@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T06:19:11.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="waKW4JRrpdko1JPDWbcL" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T06:20:48.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="veAUg7HnTGc6h8h5EwVs" version="21.6.1" type="github">
   <diagram name="Page-1" id="9KkLvjiodTEFNLk0Eatf">
     <mxGraphModel dx="989" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
         <mxCell id="krdi9cmxqK3arJJjNhzq-41" value="Presence" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="krdi9cmxqK3arJJjNhzq-29">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="krdi9cmxqK3arJJjNhzq-35" value="QR Payment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="krdi9cmxqK3arJJjNhzq-29">
+        <mxCell id="krdi9cmxqK3arJJjNhzq-49" value="PromptPay" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="krdi9cmxqK3arJJjNhzq-29">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="krdi9cmxqK3arJJjNhzq-32" value="Created at" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="krdi9cmxqK3arJJjNhzq-29">
