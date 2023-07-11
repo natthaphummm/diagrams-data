@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T06:20:48.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="veAUg7HnTGc6h8h5EwVs" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T06:21:10.328Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="C1psCKFGQSgpMu3Bi74K" version="21.6.1" type="github">
   <diagram name="Page-1" id="9KkLvjiodTEFNLk0Eatf">
     <mxGraphModel dx="989" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="4000" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="80" width="520" height="320" as="geometry" />
         </mxCell>
         <mxCell id="krdi9cmxqK3arJJjNhzq-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="440" width="280" height="200" as="geometry" />
+          <mxGeometry x="640" y="440" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="krdi9cmxqK3arJJjNhzq-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="520" height="240" as="geometry" />
@@ -44,26 +44,26 @@
           <mxGeometry x="280" y="440" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="krdi9cmxqK3arJJjNhzq-15" value="&lt;b&gt;Status Admin Active Count&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="750" y="440" width="170" height="30" as="geometry" />
+          <mxGeometry x="710" y="440" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="krdi9cmxqK3arJJjNhzq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="krdi9cmxqK3arJJjNhzq-16" target="krdi9cmxqK3arJJjNhzq-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="500" />
+              <mxPoint x="690" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="krdi9cmxqK3arJJjNhzq-16" value="Get Admin&amp;nbsp;Presence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="krdi9cmxqK3arJJjNhzq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="krdi9cmxqK3arJJjNhzq-17" target="krdi9cmxqK3arJJjNhzq-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="krdi9cmxqK3arJJjNhzq-17" value="employee" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="700" y="515" width="60" height="80" as="geometry" />
+          <mxGeometry x="660" y="515" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="krdi9cmxqK3arJJjNhzq-19" value="Update Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="krdi9cmxqK3arJJjNhzq-26" value="&lt;b&gt;Register Admin&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="120" height="30" as="geometry" />
